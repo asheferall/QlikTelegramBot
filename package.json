@@ -1,0 +1,22 @@
+{
+  "name": "qliktelegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asheferall/QlikTelegramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asheferall/QlikTelegramBot/issues"
+  },
+  "homepage": "https://github.com/asheferall/QlikTelegramBot#readme",
+  "dependencies": {
+    "telebot": "^1.2.3"
+  }
+}
